@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="profileFontSize">25sp</dimen>
+    <dimen name="rowLayoutFontSize">20sp</dimen>
+    <dimen name="myProfileDetailsLeftMargin">15dp</dimen>
+</resources>

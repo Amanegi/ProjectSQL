@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorPrimary">#37474f</color>
+    <color name="colorAccent">#00838f</color>
+    <color name="bg">#9ccc65</color><!--f0f4c3-->
+    <color name="profileFontColor">#00563b</color>
+    <color name="profileKeyFontColor">#000</color>
+    <color name="profileDetailFontColor">#e27201</color>
+    <color name="cardviewBg">#006064</color><!--FF259773-->
+    <color name="rowLayoutFontColor">#fff</color>
+</resources>
